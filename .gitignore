@@ -1,0 +1,43 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+/packages/
+*.nupkg
+*.snupkg
+
+# Rider / JetBrains
+.idea/
+*.iml
+riderModule.iml
+/_ReSharper.Caches/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test results / coverage
+TestResults/
+*.trx
+coverage*.xml
+
+# Secrets / local config
+appsettings.Development.json
+appsettings.Local.json
+*.pfx
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
