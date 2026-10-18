@@ -8,8 +8,8 @@ One GitHub repository containing three independent .NET solutions (services), ea
 
 | Folder | Solution | Projects |
 |---|---|---|
-| `CardService/` | `CardService.sln` | `CardService.Api` (placeholder `Class1.cs`), `.Domain`, `.Application`, `.Infrastructure` |
-| `TransactionService/` | `TransactionService.sln` | `TransactionService.Api` (web API template), `.Domain`, `.Application`, `.Infrastructure` |
+| `CardService/` | `CardService.sln` | `CardService.Api` (minimal API), `.Domain`, `.Application`, `.Infrastructure` |
+| `TransactionService/` | `TransactionService.sln` | `TransactionService.Api` (minimal API), `.Domain`, `.Application`, `.Infrastructure` |
 | `BillingWorker/` | `BillingWorker.sln` | `BillingWorker.Worker` (worker service template), `.Domain`, `.Application`, `.Infrastructure` |
 
 Each service follows Clean Architecture references: Application → Domain; Infrastructure → Application; Api/Worker → Application + Infrastructure.
