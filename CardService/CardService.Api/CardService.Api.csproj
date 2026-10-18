@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <ItemGroup>
-      <ProjectReference Include="..\FuelCardsService.Application\FuelCardsService.Application.csproj" />
-      <ProjectReference Include="..\FuelCardsService.Infrastructure\FuelCardsService.Infrastructure.csproj" />
+      <ProjectReference Include="..\CardService.Application\CardService.Application.csproj" />
+      <ProjectReference Include="..\CardService.Infrastructure\CardService.Infrastructure.csproj" />
     </ItemGroup>
 
     <PropertyGroup>

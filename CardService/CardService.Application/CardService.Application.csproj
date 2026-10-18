@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\FuelCardsService.Domain\FuelCardsService.Domain.csproj" />
+    <ProjectReference Include="..\CardService.Domain\CardService.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
