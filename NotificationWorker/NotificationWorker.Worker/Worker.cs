@@ -1,4 +1,4 @@
-namespace BillingWorker.Worker;
+namespace NotificationWorker.Worker;
 
 public class Worker(ILogger<Worker> logger) : BackgroundService
 {

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\BillingWorker.Domain\BillingWorker.Domain.csproj" />
+    <ProjectReference Include="..\ClientService.Domain\ClientService.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

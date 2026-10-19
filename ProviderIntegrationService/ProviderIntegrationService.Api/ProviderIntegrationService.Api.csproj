@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TransactionService.Application\TransactionService.Application.csproj" />
-    <ProjectReference Include="..\TransactionService.Infrastructure\TransactionService.Infrastructure.csproj" />
+    <ProjectReference Include="..\ProviderIntegrationService.Application\ProviderIntegrationService.Application.csproj" />
+    <ProjectReference Include="..\ProviderIntegrationService.Infrastructure\ProviderIntegrationService.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

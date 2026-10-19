@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\TransactionService.Domain\TransactionService.Domain.csproj" />
+    <ProjectReference Include="..\NotificationWorker.Domain\NotificationWorker.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

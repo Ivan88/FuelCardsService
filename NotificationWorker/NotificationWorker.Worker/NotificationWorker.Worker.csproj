@@ -4,7 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-BillingWorker.Worker-7c7121e5-1fc4-4f1e-b569-56a4dd1d7e6a</UserSecretsId>
+    <UserSecretsId>dotnet-NotificationWorker.Worker-7c7121e5-1fc4-4f1e-b569-56a4dd1d7e6a</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BillingWorker.Application\BillingWorker.Application.csproj" />
-    <ProjectReference Include="..\BillingWorker.Infrastructure\BillingWorker.Infrastructure.csproj" />
+    <ProjectReference Include="..\NotificationWorker.Application\NotificationWorker.Application.csproj" />
+    <ProjectReference Include="..\NotificationWorker.Infrastructure\NotificationWorker.Infrastructure.csproj" />
   </ItemGroup>
 </Project>

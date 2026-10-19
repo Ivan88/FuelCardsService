@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingWorker.Worker", "BillingWorker.Worker\BillingWorker.Worker.csproj", "{049F3793-8979-4FC4-9741-3AFF9F8ED57C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationWorker.Worker", "NotificationWorker.Worker\NotificationWorker.Worker.csproj", "{049F3793-8979-4FC4-9741-3AFF9F8ED57C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingWorker.Domain", "BillingWorker.Domain\BillingWorker.Domain.csproj", "{9176C92E-8B29-441B-8393-5FE314193662}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationWorker.Domain", "NotificationWorker.Domain\NotificationWorker.Domain.csproj", "{9176C92E-8B29-441B-8393-5FE314193662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingWorker.Application", "BillingWorker.Application\BillingWorker.Application.csproj", "{4DF04DCC-B225-4576-9966-8C622E107A2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationWorker.Application", "NotificationWorker.Application\NotificationWorker.Application.csproj", "{4DF04DCC-B225-4576-9966-8C622E107A2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingWorker.Infrastructure", "BillingWorker.Infrastructure\BillingWorker.Infrastructure.csproj", "{2D12C7A5-83AE-4635-B5FC-DD8D8CF1A8BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationWorker.Infrastructure", "NotificationWorker.Infrastructure\NotificationWorker.Infrastructure.csproj", "{2D12C7A5-83AE-4635-B5FC-DD8D8CF1A8BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

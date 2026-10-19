@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\TransactionService.Application\TransactionService.Application.csproj" />
+    <ProjectReference Include="..\ProviderIntegrationService.Application\ProviderIntegrationService.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
